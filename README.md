@@ -1,2 +1,2 @@
-# CSE4126_Project
-Simple University Management System
+# University Management System
+Simple University Management System using PL/SQL
